@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bowl",
+        "image": "./images/example/bowl.png",
+        "price": 25,
+        "sold": false
+    },
+    {
+        "name": "Mug",
+        "image": "./images/example/mug.jpg",
+        "price": 20,
+        "sold": false
+    },
+    {
+        "name": "Teacup",
+        "image": "./images/example/teacup.jpg",
+        "price": 20,
+        "sold": false
+    },
+    {
+        "name": "Tea Pot",
+        "image": "./images/example/teapot.jpg",
+        "price": 50,
+        "sold": false
+    },
+    {
+        "name": "Tea Set",
+        "image": "./images/example/teaset.jpg",
+        "price": 100,
+        "sold": false
+    }
+]
