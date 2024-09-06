@@ -12,6 +12,12 @@
         "sold": false
     },
     {
+        "name": "Plate",
+        "image": "./images/example/plates2.jpg",
+        "price": 15,
+        "sold": false
+    },
+    {
         "name": "Teacup",
         "image": "./images/example/teacup.jpg",
         "price": 20,
@@ -30,33 +36,51 @@
         "sold": false
     },
     {
-        "name": "Bowl",
-        "image": "./images/example/bowl.png",
-        "price": 25,
+        "name": "Mug Set",
+        "image": "./images/example/mug-set.jpg",
+        "price": 50,
         "sold": false
+    },
+    {
+        "name": "Candle Holder",
+        "image": "./images/example/candle-holder.jpg",
+        "price": 15,
+        "sold": true
     },
     {
         "name": "Mug",
-        "image": "./images/example/mug.jpg",
+        "image": "./images/example/mug2.jpg",
         "price": 20,
         "sold": false
     },
     {
-        "name": "Teacup",
-        "image": "./images/example/teacup.jpg",
-        "price": 20,
-        "sold": true
+        "name": "Oil Bottle",
+        "image": "./images/example/oil-bottles.jpg",
+        "price": 30,
+        "sold": false
     },
     {
-        "name": "Tea Pot",
-        "image": "./images/example/teapot.jpg",
-        "price": 50,
+        "name": "Plate",
+        "image": "./images/example/plates.jpg",
+        "price": 20,
         "sold": false
     },
     {
         "name": "Tea Set",
-        "image": "./images/example/teaset.jpg",
+        "image": "./images/example/teaset2.jpg",
         "price": 100,
         "sold": false
+    },
+    {
+        "name": "Tray",
+        "image": "./images/example/tray.jpg",
+        "price": 30,
+        "sold": false
+    },
+    {
+        "name": "Candle",
+        "image": "./images/example/candle.jpg",
+        "price": 40,
+        "sold": true
     }
 ]
