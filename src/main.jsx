@@ -8,7 +8,7 @@ import Error from './Error.jsx'
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/ishita-ceramics",
     element: <App />,
   },
   {
