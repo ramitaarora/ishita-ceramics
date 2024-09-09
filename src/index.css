@@ -90,9 +90,3 @@ main {
       column-count: 2;
     }
   }
-
-  @media only screen and (max-width: 480px) {
-    .inventory-container {
-      column-count: 1;
-    }
-  }
